@@ -38,6 +38,8 @@ github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5Cc
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/vmware/go-vcloud-director/v2 v2.14.0 h1:ZSw1xuHbk0JomkpT0qr1R6Q9VWtb9vEsTnVYcqm9+oQ=
 github.com/vmware/go-vcloud-director/v2 v2.14.0/go.mod h1:2BS1yw61VN34WI0/nUYoInFvBc3Zcuf84d4ESiAAl68=
+github.com/vmware/go-vcloud-director/v2 v2.16.0 h1:2KxPI3jDPV4ZpYU6odYcMiyKyXK589Hg5cRdnnOU5Gw=
+github.com/vmware/go-vcloud-director/v2 v2.16.0/go.mod h1:DgfzOh0u9J70FFOC2Qwy4iCjPoktg6SDdEguNi0z0H0=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20220214200702-86341886e292 h1:f+lwQ+GtmgoY+A2YaQxlSOnDjXcQ7ZRLWOHbC6HtRqE=
 golang.org/x/crypto v0.0.0-20220214200702-86341886e292/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
