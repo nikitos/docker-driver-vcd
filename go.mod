@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/docker/machine v0.16.2
-	github.com/vmware/go-vcloud-director/v2 v2.14.0
+	github.com/vmware/go-vcloud-director/v2 v2.16.0
 )
 
 require github.com/stretchr/testify v1.7.0 // indirect
