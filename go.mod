@@ -1,4 +1,4 @@
-module github.com/nikitos/docker-driver-vcd
+module github.com/DimKush/docker-driver-vcd
 
 go 1.17
 
